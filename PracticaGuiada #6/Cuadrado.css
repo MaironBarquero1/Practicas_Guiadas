@@ -1,0 +1,23 @@
+.caja {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.cajaBlue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#naranja {
+  color: orange;
+}
